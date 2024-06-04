@@ -1,6 +1,6 @@
 # todolist
 
-A new Flutter project.
+ToDos APP .
 
 ## Getting Started
 
